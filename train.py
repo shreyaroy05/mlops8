@@ -19,5 +19,5 @@ def train_model():
     print("Model saved as model.pkl")
 
     if _name__=="_main_":
-        print("Training started...")
+        print("Training started again...")
         train_model()
